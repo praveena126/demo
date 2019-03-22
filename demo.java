@@ -8,4 +8,6 @@ class demo
      s.o.pln()
  }
 }
-     
+class new 
+{
+}     
